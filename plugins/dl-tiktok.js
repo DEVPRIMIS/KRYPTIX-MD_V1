@@ -23,7 +23,7 @@ const tiktok = async (m, Matrix) => {
 
     const { desc, author, statistics, video, music } = data.result;
 
-    const caption = `🎵 *TikTok Video*\n\n💬 *${desc}*\n👤 *By:* ${author.nickname}\n❤️ *Likes:* ${statistics.likeCount}\n💬 *Comments:* ${statistics.commentCount}\n🔄 *Shares:* ${statistics.shareCount}\n\n📥 *Powered By INCONNU BOY✅*`;
+    const caption = `🎵 *TikTok Video*\n\n💬 *${desc}*\n👤 *By:* ${author.nickname}\n❤️ *Likes:* ${statistics.likeCount}\n💬 *Comments:* ${statistics.commentCount}\n🔄 *Shares:* ${statistics.shareCount}\n\n📥 *Powered By DEV PRIMIS✅*`;
 
     await Matrix.sendMessage(m.from, {
       video: { url: video },
