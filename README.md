@@ -176,11 +176,6 @@ The developer is not responsible for any misuse or bans.
   <img alt="DEV PRIMIS - OWNER" src="https://img.shields.io/badge/OWNER-âš¡DEV%20PRIMISâš¡-FF0000?style=for-the-badge&logo=github" />
 </a>  
 
-
-<a href="https://github.com/popkiddevs">
-  <img alt="Thanks to Popkiddevs" src="https://img.shields.io/badge/Thanks_To-Popkiddevs-blueviolet?style=for-the-badge&logo=github" />
-</a>
-
 ---
 
 <a href="https://wa.me/50940938083?text=âš¡%20HELLO%20DEV%20PRIMIS%20TECH%20âš¡">
