@@ -55,7 +55,7 @@ Deploy Easily KRYPTIX-MD
 ### Get Pairing Code ( SESSION ID )
 
 
-[![KRYPTIX MD SESSION](https://img.shields.io/badge/KRYPTIX%20-MD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://kryptix-md-v1-1.onrender.com/)
+[![KRYPTIX MD SESSION](https://img.shields.io/badge/KRYPTIX%20-MD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://kryptix-md-v1-2.onrender.com)
 ---
 
  Fork This Repository
