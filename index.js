@@ -123,7 +123,7 @@ async function start() {
 *⚡ Hello there User! 👋🏻*
 
 ════════════════════
-⚡ CHANNEL : https://whatsapp.com/channel/0029Vb6T8td5K3zQZbsKEU1R
+⚡ CHANNEL : https://whatsapp.com/channel/0029VbB2Xry0LKZAuosqRO0k
 
 ═══════════════════
 *⚡ Your Prefix:* = *${prefix}*
