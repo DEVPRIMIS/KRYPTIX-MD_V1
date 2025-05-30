@@ -30,7 +30,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363397722863547@newsletter',
+                        newsletterJid: '120363417691451409@newsletter',
                         newsletterName: "KRYPTIX-MD ADULT MENU🔞🔞₊",
                         serverMessageId: 143
                     }
