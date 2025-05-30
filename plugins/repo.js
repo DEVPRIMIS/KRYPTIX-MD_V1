@@ -35,8 +35,8 @@ const repo = async (m, gss) => {
             forwardingScore: 999,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-              newsletterJid: "120363397722863547@newsletter",
-              newsletterName: "KRYPTIX-MD",
+              newsletterJid: "120363417691451409@newsletter",
+              newsletterName: "HACKERS-PROGRAMING",
               serverMessageId: 143,
             },
           },
@@ -56,8 +56,8 @@ const repo = async (m, gss) => {
             forwardingScore: 999,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-              newsletterJid: "120363397722863547@newsletter",
-              newsletterName: "KRYPTIX-MD",
+              newsletterJid: "120363417691451409@newsletter",
+              newsletterName: "HACKERS-PROGRAMING",
               serverMessageId: 143,
             },
           },
