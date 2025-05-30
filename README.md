@@ -21,7 +21,7 @@
   <a href="https://github.com/DEVPRIMIS">
     <img title="Author" src="https://img.shields.io/badge/Author-DEV%20PRIMIS-ff004d?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://whatsapp.com/channel/0029Vb6T8td5K3zQZbsKEU1R">
+  <a href="https://whatsapp.com/channel/0029VbB2Xry0LKZAuosqRO0k">
     <img title="Join WhatsApp Channel" src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
