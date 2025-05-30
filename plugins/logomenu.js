@@ -56,8 +56,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363382023564830@newsletter',
-                        newsletterName: "SCHOOL-BOT-TECH LOGO MENU⚡₊",
+                        newsletterJid: '120363417691451409@newsletter',
+                        newsletterName: "HACKER-PROGRAMING LOGO MENU⚡₊",
                         serverMessageId: 143
                     }
                 }
